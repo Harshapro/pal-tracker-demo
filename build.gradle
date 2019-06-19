@@ -26,3 +26,5 @@ repositories {
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-web:$springBootVersion")
 }
+
+sourceCompatibility = '1.8'
